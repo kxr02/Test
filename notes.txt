@@ -1,4 +1,4 @@
-My Git notes
+My Git cheat sheet
 - git status: see what changed
 - git add: stage changes
 - git commit: save a snapshot
