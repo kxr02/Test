@@ -2,3 +2,5 @@ Git notes
 - git status: see what changed
 - git add: stage changes
 - git commit: save a snapshot
+- git switch -c: create a branch
+- git merge: combine branches
